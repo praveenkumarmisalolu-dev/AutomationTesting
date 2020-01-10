@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.AmazonFlipkartTestCase" duration-ms="53159" started-at="2020-01-10T23:40:35 IST" finished-at="2020-01-10T23:41:28 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="53159" started-at="2020-01-10T23:40:35 IST" finished-at="2020-01-10T23:41:28 IST">
+      <class name="test.AmazonFlipkartTestCase">
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:test.AmazonFlipkartTestCase@1e397ed7]" name="beforeTestMethod" is-config="true" duration-ms="8" started-at="2020-01-10T23:40:35 IST" finished-at="2020-01-10T23:40:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="testHomePageAppearCorrect()[pri:0, instance:test.AmazonFlipkartTestCase@1e397ed7]" name="testHomePageAppearCorrect" duration-ms="52085" started-at="2020-01-10T23:40:35 IST" finished-at="2020-01-10T23:41:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageAppearCorrect -->
+        <test-method status="PASS" signature="afterTestMethod()[pri:0, instance:test.AmazonFlipkartTestCase@1e397ed7]" name="afterTestMethod" is-config="true" duration-ms="1040" started-at="2020-01-10T23:41:27 IST" finished-at="2020-01-10T23:41:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+      </class> <!-- test.AmazonFlipkartTestCase -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.AmazonFlipkartTestCase -->
+</testng-results>

@@ -1,0 +1,4 @@
+pages\AmazonHomePage.class
+pages\FlipkartHomePage.class
+test\AmazonFlipkartTestCase.class
+pages\HomePage.class
